@@ -1,0 +1,18 @@
+/*p {
+	color: white;
+	background-color: gray;
+}
+*/
+/*#intro {
+	color: white;
+	background-color: blue;
+}
+*/
+.first {
+	font-size: 200%;
+}
+
+#intro .first em {
+	color: pink;
+	background-color: gray;
+}
