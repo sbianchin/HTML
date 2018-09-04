@@ -1,2 +1,2 @@
 # HTML
-Experiencing with HTML
+Experimenting with HTML
